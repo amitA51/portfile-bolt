@@ -7,7 +7,7 @@ const certificates = [
     title: "IBM Cybersecurity Analyst",
     issuer: "IBM",
     date: "2024",
-    image: "src/components/Certificates/ibm_page-0001.jpg",
+    image: "https://s3.amazonaws.com/coursera_assets/meta_images/generated/CERTIFICATE_LANDING_PAGE/CERTIFICATE_LANDING_PAGE~GEXHXDPPVMET/CERTIFICATE_LANDING_PAGE~GEXHXDPPVMET.jpeg",
     link: "https://coursera.org/share/4cc5c2125faf9b6028fcd0c6503567a8"
   },
   {
