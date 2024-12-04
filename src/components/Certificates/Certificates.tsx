@@ -14,7 +14,7 @@ const certificates = [
     title: "Google Cybersecurity",
     issuer: "Google",
     date: "2024",
-    image: "src/components/Certificates/google_page-0001.jpg",
+    image: "https://s3.amazonaws.com/coursera_assets/meta_images/generated/CERTIFICATE_LANDING_PAGE/CERTIFICATE_LANDING_PAGE~P7UJN6T5RH9N/CERTIFICATE_LANDING_PAGE~P7UJN6T5RH9N.jpeg",
     link: "https://coursera.org/share/9dc2efce6a1a2df88ce23714ecb8e833"
   }
 ];
