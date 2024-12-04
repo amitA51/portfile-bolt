@@ -3,8 +3,8 @@ import { useInView } from 'react-intersection-observer';
 import SkillBar from './SkillBar';
 
 const skills = [
-  { name: 'Network Security', level: 90 },
-  { name: 'Penetration Testing', level: 85 },
+  { name: 'Network Security', level: 88 },
+  { name: 'Penetration Testing', level: 92 },
   { name: 'Incident Response', level: 88 },
   { name: 'Security Analysis', level: 92 },
   { name: 'Risk Assessment', level: 87 },
